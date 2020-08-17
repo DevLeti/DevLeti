@@ -40,6 +40,8 @@
 
 <img align="left" alt="Python" width="26px" src="./img/Python.png" />
 
+
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
@@ -56,14 +58,8 @@
 
 
 [twitter]: https://twitter.com/devleti__
-[youtube]: 
 [instagram]: https://instagram.com/leti__ins
 [linkedin]: https://www.linkedin.com/in/devleti
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
-
 <!--
 **DevLeti/DevLeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
