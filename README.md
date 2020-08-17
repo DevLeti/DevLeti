@@ -1,6 +1,6 @@
 ### Hi there, I'm MyeongHyun Lew - aka [DevLeti][website] 👋
 
-
+---
 
 ## I'm a University student, Developer, and Soldier !
 
@@ -40,7 +40,9 @@
 
 <img align="left" alt="Python" width="26px" src="./img/Python.png" />
 
+<br />
 
+---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
@@ -48,7 +50,7 @@
   <!--END_SECTION:activity-->
 </details>
 
-
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
