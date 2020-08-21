@@ -49,6 +49,9 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
+1. ❗️ Reopened issue [#1](https://github.com//DevLeti/DevLeti/issues/1) in [DevLeti/DevLeti](https://github.com//DevLeti/DevLeti)
+2. ❗️ Closed issue [#1](https://github.com//DevLeti/DevLeti/issues/1) in [DevLeti/DevLeti](https://github.com//DevLeti/DevLeti)
+3. ❗️ Opened issue [#1](https://github.com//DevLeti/DevLeti/issues/1) in [DevLeti/DevLeti](https://github.com//DevLeti/DevLeti)
   <!--END_SECTION:activity-->
 </details>
 
