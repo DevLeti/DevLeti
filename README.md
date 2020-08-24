@@ -44,6 +44,14 @@
 
 <br />
 
+## Currently developing
+
+- [maimai_info](https://github.com/DevLeti/maimai_info)
+- [github_activity](https://github.com/DevLeti/maimai_info)
+- [sjb_algorithm](https://github.com/DevLeti/sjb_algorithm)
+
+<br />
+
 ---
 
 <details>
