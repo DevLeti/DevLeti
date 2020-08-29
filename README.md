@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Republic of Korea Army ! (2020-05-18 ~ 2021-11-21)
 - 🌱 I’m currently learning multiple things - algorithm, web development, Foreign Languages !
 - 😄 I'm interested in (Human) languagues - 한국어, English, 汉语, 日本語
-- 🥅 2020 Goals : At least 1 github commit per day & Pass JLPT N3 (Japanese Language Proficiency Test)
+- 🥅 2020 Goals : At least 1 github commit per day & Pass JLPT N2 (Japanese Language Proficiency Test)
 
 
 
@@ -32,17 +32,17 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="TypeScript" width="26px" src="./img/ts-logo-128.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/devleti/devleti/img/ts-logo-128.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="AWS" width="26px" src="./img/AWS_logo_RGB_square.png" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/devleti/devleti/img/AWS_logo_RGB_square.png" />
 
-<img align="left" alt="CPP" width="26px" src="./img/cpp.png" />
+<img align="left" alt="CPP" width="26px" src="https://github.com/devleti/devleti/img/cpp.png" />
 
-<img align="left" alt="Python" width="26px" src="./img/Python.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devleti/devleti/img/Python.png" />
 
 <br />
 
