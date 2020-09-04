@@ -62,7 +62,10 @@
 2. 💪 Opened PR [#2](https://github.com//DevLeti/github_activity/pull/2) in [DevLeti/github_activity](https://github.com//DevLeti/github_activity)
 3. 🎉 Merged PR [#1](https://github.com//DevLeti/github_activity/pull/1) in [DevLeti/github_activity](https://github.com//DevLeti/github_activity)
   <!--END_SECTION:activity-->
+  <!--START:activity-->
+  <!--END:activity-->
 </details>
+
 
 ---
 
