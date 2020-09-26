@@ -60,9 +60,9 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//DevLeti/github_activity/pull/2) in [DevLeti/github_activity](https://github.com//DevLeti/github_activity)
-2. 💪 Opened PR [#2](https://github.com//DevLeti/github_activity/pull/2) in [DevLeti/github_activity](https://github.com//DevLeti/github_activity)
-3. 🎉 Merged PR [#1](https://github.com//DevLeti/github_activity/pull/1) in [DevLeti/github_activity](https://github.com//DevLeti/github_activity)
+1. 🎉 Merged PR [#2](https://github.com/DevLeti/github_activity/pull/2) in [DevLeti/github_activity](https://github.com/DevLeti/github_activity)
+2. 💪 Opened PR [#2](https://github.com/DevLeti/github_activity/pull/2) in [DevLeti/github_activity](https://github.com/DevLeti/github_activity)
+3. 🎉 Merged PR [#1](https://github.com/DevLeti/github_activity/pull/1) in [DevLeti/github_activity](https://github.com/DevLeti/github_activity)
   <!--END_SECTION:activity-->
   <!--START:activity-->
   <!--END:activity-->
