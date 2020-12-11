@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Republic of Korea Army ! (2020-05-18 ~ 2021-11-21)
 - 🌱 I’m currently learning multiple things - algorithm, web development, Foreign Languages !
 - 😄 I'm interested in (Human) languagues - 한국어, English, 汉语, 日本語
-- 🥅 2020 Goals : At least 1 github commit per day & Pass JLPT N2 (Japanese Language Proficiency Test)
+- 🥅 2021 Goals : Pass JLPT N1 (Japanese Language Proficiency Test)
 
 
 
