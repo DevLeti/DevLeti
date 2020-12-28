@@ -5,7 +5,7 @@
 ## I'm a University student, Developer, and Soldier !
 
 - 🔭 I’m currently working on Republic of Korea Army ! (2020-05-18 ~ 2021-11-21)
-- 🌱 I’m currently learning multiple things - cloud infrastructure, devops, foreign Languages !
+- 🌱 I’m currently learning multiple things - Cloud Infrastructure, DevOps, Foreign Languages !
 - 😄 I'm interested in (Human) languagues - 한국어, English, 汉语, 日本語
 - 🥅 2021 Goals : Pass JLPT N1 (Japanese Language Proficiency Test)
 
