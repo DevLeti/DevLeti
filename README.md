@@ -1,5 +1,4 @@
 ### Hi there, I'm MyeongHyun Lew - aka [DevLeti][website] 👋
-
 ---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leti)](https://solved.ac/leti)
 [![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=DevLeti&show_icons=true&hide_border=true)](https://github.com/devleti)
@@ -53,7 +52,6 @@
 -->
 - [sjb_algorithm](https://github.com/DevLeti/sjb_algorithm)
 - [TIL](https://github.com/DevLeti/TIL)
----
 
 [twitter]: https://twitter.com/devleti__
 [instagram]: https://instagram.com/leti__ins
