@@ -1,6 +1,8 @@
 ### Hi there, I'm MyeongHyun Lew - aka [DevLeti][website] 👋
 
 ---
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leti)](https://solved.ac/leti)
+[![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=DevLeti&show_icons=true&hide_border=true)](https://github.com/devleti)
 
 ## I'm a University student, Developer, and Soldier !
 
@@ -25,15 +27,12 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<!--
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/DevLeti/DevLeti/master/img/ts-logo-128.png" />
-
+-->
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -50,40 +49,16 @@
 ## Currently developing
 
 <!--
-- [maimai_info](https://github.com/DevLeti/maimai_info)
 - [github_activity](https://github.com/DevLeti/github_activity)
-- [sjb_algorithm](https://github.com/DevLeti/sjb_algorithm)
 -->
+- [sjb_algorithm](https://github.com/DevLeti/sjb_algorithm)
 - [TIL](https://github.com/DevLeti/TIL)
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DevLeti/github_activity/pull/2) in [DevLeti/github_activity](https://github.com/DevLeti/github_activity)
-2. 💪 Opened PR [#2](https://github.com/DevLeti/github_activity/pull/2) in [DevLeti/github_activity](https://github.com/DevLeti/github_activity)
-3. 🎉 Merged PR [#1](https://github.com/DevLeti/github_activity/pull/1) in [DevLeti/github_activity](https://github.com/DevLeti/github_activity)
-  <!--END_SECTION:activity-->
-  <!--START:activity-->
-  <!--END:activity-->
-</details>
-
-
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="DevLeti's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DevLeti&show_icons=true&hide_border=true" />
-</details>
-
-
 
 [twitter]: https://twitter.com/devleti__
 [instagram]: https://instagram.com/leti__ins
 [website]: https://imleti.dev
 [linkedin]: https://www.linkedin.com/in/devleti
-
-
 
 <!--
 **DevLeti/DevLeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
