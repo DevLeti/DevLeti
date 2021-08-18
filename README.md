@@ -8,7 +8,7 @@
 - 😄 I'm interested in (Human) languagues - 한국어, English, 汉语, 日本語
 - 🥅 2021 Goals : [Solved.ac in #1000](https://solved.ac/profile/leti)
 ---
-### [PORTFOLIO](https://www.notion.so/DevLETi-1970a7f4dfeb4543887b68a71975865a#85cd9e70217d4a809fd0f0d4d1564435)
+### [PORTFOLIO](https://lofty-apogee-5ce.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a)
 <!--
 ### SNS:
 
