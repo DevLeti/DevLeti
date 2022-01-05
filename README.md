@@ -1,13 +1,8 @@
 <!-- ### Hi there, I'm MyeongHyun Lew - aka [DevLeti][website] 👋 -->
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leti)](https://solved.ac/leti) -->
 
-## I'm a University student, Developer !
+## Have a nice day 😄
 
-- 🔭 I’m a student of KyungHee University!
-- 🌱 I’m currently learning multiple things - VueJS, Foreign Languages !
-- 😄 I'm interested in (Human) languagues - 한국어, English, 汉语, 日本語
-- 🥅 2022 Goals : Be a Nagoya University student with exchange student program!
----
 ### [PORTFOLIO](https://lofty-apogee-5ce.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a)
 
 [twitter]: https://twitter.com/devleti__
