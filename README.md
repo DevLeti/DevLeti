@@ -3,7 +3,7 @@
 
 ## Have a nice day 😄
 
-### [PORTFOLIO](https://lofty-apogee-5ce.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a)
+### [PORTFOLIO](https://devleti.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a)
 
 [twitter]: https://twitter.com/devleti__
 [instagram]: https://instagram.com/leti__ins
