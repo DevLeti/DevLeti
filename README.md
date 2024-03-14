@@ -3,13 +3,7 @@
 
 ## Have a nice day 😄
 
-### [PORTFOLIO](https://devleti.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a)
-
-[twitter]: https://twitter.com/devleti__
-[instagram]: https://instagram.com/leti__ins
-[website]: https://imleti.dev
-[linkedin]: https://www.linkedin.com/in/devleti
-
+<!-- ### [PORTFOLIO](https://devleti.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a) -->
 
 <!--
 **DevLeti/DevLeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
